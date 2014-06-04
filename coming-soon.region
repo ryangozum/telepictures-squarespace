@@ -9,11 +9,12 @@ body
     background-color: #000;
     margin: 0;
     padding: 0;
-    color: #FFF;
+    color: #FFF !important;
 }
 
 h1
 {
+    color: #FFF !important;
     text-align: center;
 }
 
