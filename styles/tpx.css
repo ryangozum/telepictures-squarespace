@@ -74,16 +74,26 @@ body {
 
 /* show thumbnails */
 
+h2.page-header
+{
+ 	border-bottom: none;
+}
+
 .show-thumb
 {
+    margin-bottom: 10px;
     position: relative;
 }
 
 .show-link
 {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.6);
     bottom: 0;
+    font-size: 13px;
+    font-weight: bold;
     height: 31px;
     left: 0;
+    padding: 6px 0 0 10px;
     position: absolute;
+    width: 227px;
 }
