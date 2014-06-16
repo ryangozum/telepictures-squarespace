@@ -101,7 +101,11 @@
             <a class="left carousel-control" href="#carousel-tpx-shows" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#carousel-tpx-shows" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> </div>
         <!-- end carousel-tpx-shows -->
         <div class="container clearfix">
-            <h2 class="page-header">Shows</h2>
+            <div class="row">
+                <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
+                    <h2 class="page-header">Shows</h2>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
                     <div class="show-thumb"><a href="http://www.bethenny.com" target="_blank"><img src="/assets/thumb_bethenny.jpg" alt="Bethenny"><span class="show-link">&raquo; Visit Site</span></a></div>

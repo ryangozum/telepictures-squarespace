@@ -57,7 +57,7 @@ body {
         top: 160px;
 }
 
-.carousel-caption a:hover
+#content .carousel-caption a:hover
 {
     color: #f4d217;
 }
@@ -70,13 +70,22 @@ body {
     color: #f4d217;
 }
 
+.carousel-caption p
+{
+    margin-bottom: 5px;
+}
+
 /* end carousel */
 
 /* show thumbnails */
 
 h2.page-header
 {
- 	border-bottom: none;
+    border-bottom: none;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #221100;
 }
 
 .show-thumb
