@@ -16,12 +16,12 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-#content a
+a
 {
  	color: #fff460;
 }
 
-#content a:hover
+a:hover
 {
     text-decoration: none;
 }
@@ -110,8 +110,10 @@ h2.page-header
 
 #footer-site-copy-right
 {
+    color: #fff460;
     font-size: 12px;
     background-color: #2a1704;
     height: 42px;
-    padding-top: 5px;
+    padding-top: 15px;
+    margin-top: 15px;
 }
