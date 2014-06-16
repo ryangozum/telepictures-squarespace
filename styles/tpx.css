@@ -30,6 +30,7 @@ body {
 
 #carousel-tpx-shows
 {
+    border-bottom: solid 10px #f2d015;
     margin: 0 auto;
     width: 1280px;
 }
@@ -75,8 +76,6 @@ body {
     margin-bottom: 5px;
 }
 
-/* end carousel */
-
 /* show thumbnails */
 
 h2.page-header
@@ -105,4 +104,14 @@ h2.page-header
     padding: 6px 0 0 10px;
     position: absolute;
     width: 227px;
+}
+
+/* footer */
+
+#footer-site-copy-right
+{
+    font-size: 12px;
+    background-color: #2a1704;
+    height: 42px;
+    padding-top: 5px;
 }

@@ -150,5 +150,10 @@
         <!-- end container -->
     </main>
 </div>
+<footer id="footer-site-copy-right">
+    <div class="container">
+        <p><a href="http://www.warnerbros.com/privacy/terms.html?adid=tpxfooterlink" target="_blank">Terms of Use</a> | <a href=" http://www.warnerbros.com/privacy/policy.html?adid=tpxfooterlink" target="_blank">Privacy Policy</a> | <a href="http://www.warnerbros.com/main/advertisewithwb.html?adid=tpxfooterlink" target="_blank">Advertise with Us</a> | <a href="http://www.warnerbroscareers.com/?adid=tpxfooterlink" target="_blank">Job Opportunities</a> |  &copy; Warner Bros. Entertainment Inc.</p>
+    </div>
+</footer>
 </body>
 </html>
