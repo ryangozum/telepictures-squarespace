@@ -28,6 +28,15 @@ a:hover
     text-decoration: none;
 }
 
+/* header */
+
+.header
+{
+    background-image: url(/assets/bg-header.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+}
+
 /* carousel css */
 
 #carousel-tpx-shows
