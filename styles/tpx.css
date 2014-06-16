@@ -11,3 +11,29 @@ body
 {
     min-width: 1170px;
 }
+
+#carousel-tpx-shows
+{
+    margin: 0 auto;
+    width: 1280px;
+}
+
+.carousel-caption
+{
+    position: absolute;
+    right: 401px;
+    top: 130px;
+    width: 170px;
+}
+
+.item.candidly .carousel-caption,
+.item.laa .carousel-caption,
+.item.peoplescourt .carousel-caption
+{
+        top: 160px;
+}
+
+.item.ellen .carousel-caption
+{
+        top: 190px;
+}
