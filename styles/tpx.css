@@ -12,6 +12,22 @@ body
     min-width: 1170px;
 }
 
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#content a
+{
+ 	color: #fff460;
+}
+
+#content a:hover
+{
+    text-decoration: none;
+}
+
+/* carousel css */
+
 #carousel-tpx-shows
 {
     margin: 0 auto;
@@ -20,7 +36,9 @@ body
 
 .carousel-caption
 {
-	left: 880px;
+    font-size: 17px;
+    font-weight: bold;
+    left: 880px;
     position: absolute;
     text-align: left;
     top: 110px;
@@ -37,4 +55,35 @@ body
 .item.ellen .carousel-caption
 {
         top: 160px;
+}
+
+.carousel-caption a:hover
+{
+    color: #f4d217;
+}
+
+.carousel-control .icon-prev,
+.carousel-control .icon-next,
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .glyphicon-chevron-right
+{
+    color: #f4d217;
+}
+
+/* end carousel */
+
+/* show thumbnails */
+
+.show-thumb
+{
+    position: relative;
+}
+
+.show-link
+{
+    background-color: rgba(0, 0, 0, 0.8);
+    bottom: 0;
+    height: 31px;
+    left: 0;
+    position: absolute;
 }
