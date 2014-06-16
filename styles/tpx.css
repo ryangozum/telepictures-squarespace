@@ -20,9 +20,10 @@ body
 
 .carousel-caption
 {
+	left: 880px;
     position: absolute;
-    right: 401px;
-    top: 130px;
+    text-align: left;
+    top: 110px;
     width: 170px;
 }
 
@@ -30,10 +31,10 @@ body
 .item.laa .carousel-caption,
 .item.peoplescourt .carousel-caption
 {
-        top: 160px;
+        top: 130px;
 }
 
 .item.ellen .carousel-caption
 {
-        top: 190px;
+        top: 160px;
 }
