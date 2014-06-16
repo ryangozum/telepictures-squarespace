@@ -13,7 +13,6 @@
 <script>window.jQuery || document.write('<script src="scripts/jquery-1.11.1.min.js"><\/script>')</script>
 <squarespace:script src="bootstrap.min.js" />
 <squarespace:script src="modernizr.js" />
-<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
 <!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
 {squarespace-headers}
 <!--[if IE 7]>
@@ -100,7 +99,7 @@
             <!-- Controls -->
             <a class="left carousel-control" href="#carousel-tpx-shows" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#carousel-tpx-shows" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> </div>
         <!-- end carousel-tpx-shows -->
-        <div class="container">
+        <div class="container clearfix">
             <h2 class="page-header">Shows</h2>
             <div class="row">
                 <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
@@ -124,25 +123,26 @@
                     <div class="show-thumb"><a href="http://www.letsaskamerica.tv/" target="_blank"><img src="/assets/thumb_letsaskamerica.jpg" alt="Let's Ask America"><span class="show-link">&raquo; Visit Site</span></a></div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
+                    <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="/assets/thumb_peoplescourt.jpg" alt="People's Court"><span class="show-link">&raquo; Visit Site</span></a></div>
+                </div>
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.thereal.com/" target="_blank"><img src="/assets/thumb_thereal.jpg" alt="The Real"><span class="show-link">&raquo; Visit Site</span></a></div>
+                </div>
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.tmz.com/" target="_blank"><img src="/assets/thumb_tmz.jpg" alt="TMZ"><span class="show-link">&raquo; Visit Site</span></a></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
+                    <div class="show-thumb"><a href="http://www.tmz.com" target="_blank"><img src="/assets/thumb_tmzlive.jpg" alt="TMZ Live"><span class="show-link">&raquo; Visit Site</span></a></div>
+                </div>
+                <div class="col-xs-3 col-md-3"></div>
+                <div class="col-xs-3 col-md-3"></div>
+            </div>
         </div>
-        <div class="row">
-            <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
-                <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="/assets/thumb_peoplescourt.jpg" alt="People's Court"><span class="show-link">&raquo; Visit Site</span></a></div>
-            </div>
-            <div class="col-xs-3 col-md-3">
-                <div class="show-thumb"><a href="http://www.thereal.com/" target="_blank"><img src="/assets/thumb_thereal.jpg" alt="The Real"><span class="show-link">&raquo; Visit Site</span></a></div>
-            </div>
-            <div class="col-xs-3 col-md-3">
-                <div class="show-thumb"><a href="http://www.tmz.com/" target="_blank"><img src="/assets/thumb_tmz.jpg" alt="TMZ"><span class="show-link">&raquo; Visit Site</span></a></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-3 col-md-3 col-xs-offset-2 col-md-offset-2">
-                <div class="show-thumb"><a href="http://www.tmz.com" target="_blank"><img src="/assets/thumb_tmzlive.jpg" alt="TMZ Live"><span class="show-link">&raquo; Visit Site</span></a></div>
-            </div>
-            <div class="col-xs-3 col-md-3"></div>
-            <div class="col-xs-3 col-md-3"></div>
-        </div>
+        <!-- end container -->
     </main>
 </div>
 </body>
