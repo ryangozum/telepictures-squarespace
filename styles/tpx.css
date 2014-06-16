@@ -1,0 +1,13 @@
+/* set width to overwrite responsive */
+
+.container
+{
+    width: 1170px !important;
+    min-width: 1170px;
+}
+
+html,
+body
+{
+    min-width: 1170px;
+}
