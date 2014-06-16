@@ -26,7 +26,9 @@
 <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 <header id="header-site">
     <div class="header">
-        <div class="tpx-logo"><a href="/"><img src="/assets/logo-telepictures.png" alt="Telepictures Productions"></a></div>
+        <div class="container">
+            <div class="tpx-logo"><a href="/"><img src="/assets/logo-telepictures.png" alt="Telepictures Productions"></a></div>
+        </div>
     </div>
 </header>
 <div id="content">

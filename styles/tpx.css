@@ -35,6 +35,12 @@ a:hover
     background-image: url(/assets/bg-header.png);
     background-repeat: repeat-x;
     background-position: center top;
+    position: relative;
+}
+
+.tpx-logo
+{
+    z-index: 10;
 }
 
 /* carousel css */
@@ -42,7 +48,7 @@ a:hover
 #carousel-tpx-shows
 {
     border-bottom: solid 10px #f2d015;
-    margin: 0 auto;
+    margin: -23px auto 0;
     width: 1280px;
 }
 
