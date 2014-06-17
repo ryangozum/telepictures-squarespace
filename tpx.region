@@ -149,9 +149,16 @@
                 <div class="col-xs-3 col-md-3"></div>
             </div>
             <script type="text/javascript">
-				function () {
-					onmouseover="document.getElementByClass('show-link').style.display = 'block';"
-				}
+				(function($) {
+					$(".show-link").hover (
+						function() {
+							$(this).addClass("show");
+						},
+						function () {
+							$(this).removeClass("hidden");
+						}
+					);
+				})(jQuery);
             </script>
 
         </div>
