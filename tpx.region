@@ -153,13 +153,13 @@
 					$(".show-thumb").hover (
 						function() {
 							$(".show-link").removeClass("hidden");
-							$(".show-link").addClass("show");
+							$(this).addClass("show");
 						}
 					);
 					$(".show-thumb").mouseout (
 						function() {
 							$(".show-link").removeClass("show");
-							$(".show-link").addClass("hidden");
+							$(this).addClass("hidden");
 						}
 					);
 				})(jQuery);
