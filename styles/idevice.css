@@ -15,7 +15,7 @@
     .carousel-caption
     {
         font-size: 14px;
-        left: 550px;
+        left: 580px;
         top: 60px;
     }
 
@@ -28,12 +28,12 @@
 
     .item.ellen .carousel-caption
     {
-         top: 86px;
+         top: 906px;
     }
 
     .carousel-caption p
     {
-        margin-bottom: 3px;
+        margin-bottom: 2px;
     }
 
 }
