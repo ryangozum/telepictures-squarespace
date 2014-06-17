@@ -150,12 +150,12 @@
             </div>
             <script type="text/javascript">
 				(function($) {
-					$("span.show-link").hover (
+					$(".show-thumb").hover (
 						function() {
-							$(this).addClass("show");
+							$(".show-link").addClass("show");
 						},
 						function () {
-							$(this).removeClass("hidden");
+							$(".show-link").removeClass("hidden");
 						}
 					);
 				})(jQuery);
