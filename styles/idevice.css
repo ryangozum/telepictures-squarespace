@@ -15,7 +15,7 @@
     .carousel-caption
     {
         font-size: 14px;
-        left: 540px;
+        left: 520px;
         top: 60px;
     }
 
@@ -44,7 +44,7 @@
 {
     .carousel-caption
     {
-        left: 700px;
+        left: 710px;
         top: 90px;
     }
 
@@ -52,12 +52,12 @@
     .item.laa .carousel-caption,
     .item.peoplescourt .carousel-caption
     {
-         top: 110px;
+         top: 100px;
     }
 
     .item.ellen .carousel-caption
     {
-         top: 130px;
+         top: 120px;
     }
 
 }
