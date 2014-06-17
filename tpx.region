@@ -150,12 +150,12 @@
             </div>
             <script type="text/javascript">
 				(function($) {
-					$(".show-thumb").hover (
+					$(".show-thumb img").hover (
 						function() {
 							$(this).find(".show-link").removeClass("hidden");
 						}
 					);
-					$(".show-thumb").mouseout (
+					$(".show-thumb img").mouseout (
 						function() {
 							$(this).find(".show-link").addClass("hidden");
 						}
