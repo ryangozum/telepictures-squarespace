@@ -2,7 +2,7 @@
     <aside id="sidebar" class="clearfix">
         <h3 class="sb-header">Forms</h3>
         <ul>
-            <li><a href="/docs/EnrollmentForm.pdf" target="_blank">Medical/Dental Enrollment Form</a></li>
+            <li><a href="/assets/docs/EnrollmentForm.pdf" target="_blank">Medical/Dental Enrollment Form</a></li>
             <li><a href="" target="_blank">Benefits Change Form</a></li>
             <li><a href="" target="_blank">Declination of Coverage Form</a></li>
             <li><a href="" target="_blank">Aetna Medical POS and PPO Claim Form</a></li>
