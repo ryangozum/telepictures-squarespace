@@ -152,10 +152,8 @@
 				(function($) {
 					$(".show-thumb").hover (
 						function() {
-							$(".show-link").addClass("show");
-						},
-						function () {
 							$(".show-link").removeClass("hidden");
+							$(".show-link").addClass("show");
 						}
 					);
 				})(jQuery);
