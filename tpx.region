@@ -150,7 +150,7 @@
             </div>
             <script type="text/javascript">
 				(function($) {
-					$(".show-link").hover (
+					$("span.show-link").hover (
 						function() {
 							$(this).addClass("show");
 						},
