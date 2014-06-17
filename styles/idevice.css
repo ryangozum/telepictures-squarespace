@@ -1,17 +1,6 @@
 /* ipad styles (both orientations) */
 @media only screen and (max-device-width: 768px)
 {
-    .container {
-        width: 750px;
-    }
-
-    html,
-    body
-    {
-        width: 750px;
-        min-width: 750px;
-    }
-
     #carousel-tpx-shows
     {
         width: 100%;
@@ -21,18 +10,4 @@
     {
         left: 800px;
     }
-}
-
-@media only screen and (min-width: 992px)
-{
-  .container {
-    width: 970px;
-  }
-}
-
-@media only screen and (min-width: 1200px)
-{
-  .container {
-    width: 1170px;
-  }
 }
