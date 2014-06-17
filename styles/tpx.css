@@ -6,12 +6,6 @@
     min-width: 1170px;
 }
 
-html,
-body
-{
-    min-width: 1170px;
-}
-
 body {
     font-family: Helvetica, Arial, sans-serif;
     background-image: url(/assets/content_bg.jpg);
