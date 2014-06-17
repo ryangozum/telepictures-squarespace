@@ -110,40 +110,40 @@
             </div>
             <div class="row">
                 <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
-                    <div class="show-thumb"><a href="http://www.bethenny.com" target="_blank"><img src="/assets/thumb_bethenny.jpg" alt="Bethenny"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.bethenny.com" target="_blank"><img src="/assets/thumb_bethenny.jpg" class="img-responsive" alt="Bethenny"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
-                    <div class="show-thumb"><a href="http://on.aol.com/show/candidly-nicole-517742769/" target="_blank"><img src="/assets/thumb_candidlynicole.jpg" alt="Candidly Nicole"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://on.aol.com/show/candidly-nicole-517742769/" target="_blank"><img src="/assets/thumb_candidlynicole.jpg" class="img-responsive" alt="Candidly Nicole"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
-                    <div class="show-thumb"><a href="http://www.ellentv.com" target="_blank"><img src="/assets/thumb_ellen.jpg" alt="The Ellen DeGeneres Show"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.ellentv.com" target="_blank"><img src="/assets/thumb_ellen.jpg" class="img-responsive" alt="The Ellen DeGeneres Show"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
-                    <div class="show-thumb"><a href="http://www.extratv.com" target="_blank"><img src="/assets/thumb_extra.jpg" alt="Extra"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.extratv.com" target="_blank"><img src="/assets/thumb_extra.jpg" class="img-responsive" alt="Extra"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
-                    <div class="show-thumb"><a href="http://judgemathistv.warnerbros.com/" target="_blank"><img src="/assets/thumb_judgemathis.jpg" alt="Judge Mathis"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://judgemathistv.warnerbros.com/" target="_blank"><img src="/assets/thumb_judgemathis.jpg" class="img-responsive" alt="Judge Mathis"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
-                    <div class="show-thumb"><a href="http://www.letsaskamerica.tv/" target="_blank"><img src="/assets/thumb_letsaskamerica.jpg" alt="Let's Ask America"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.letsaskamerica.tv/" target="_blank"><img src="/assets/thumb_letsaskamerica.jpg" class="img-responsive" alt="Let's Ask America"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
-                    <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="/assets/thumb_peoplescourt.jpg" alt="People's Court"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="/assets/thumb_peoplescourt.jpg" class="img-responsive" alt="People's Court"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
-                    <div class="show-thumb"><a href="http://www.thereal.com/" target="_blank"><img src="/assets/thumb_thereal.jpg" alt="The Real"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.thereal.com/" target="_blank"><img src="/assets/thumb_thereal.jpg" class="img-responsive" alt="The Real"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
-                    <div class="show-thumb"><a href="http://www.tmz.com/" target="_blank"><img src="/assets/thumb_tmz.jpg" alt="TMZ"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.tmz.com/" target="_blank"><img src="/assets/thumb_tmz.jpg" class="img-responsive" alt="TMZ"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
-                    <div class="show-thumb"><a href="http://www.tmz.com" target="_blank"><img src="/assets/thumb_tmzlive.jpg" alt="TMZ Live"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                    <div class="show-thumb"><a href="http://www.tmz.com" target="_blank"><img src="/assets/thumb_tmzlive.jpg" class="img-responsive" alt="TMZ Live"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3"></div>
                 <div class="col-xs-3 col-md-3"></div>

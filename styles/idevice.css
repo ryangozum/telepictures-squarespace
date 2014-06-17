@@ -1,6 +1,18 @@
 /* ipad styles (both orientations) */
 @media only screen and (max-device-width: 768px)
 {
+    .container
+    {
+        width: auto;
+        min-width: auto;
+    }
+
+    html,
+    body
+    {
+        min-width: auto;
+    }
+
     #carousel-tpx-shows
     {
         width: 100%;
