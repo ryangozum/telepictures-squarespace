@@ -152,12 +152,12 @@
 				(function($) {
 					$(".show-thumb img").hover (
 						function() {
-							$(this).find(".show-link").removeClass("hidden");
+							$(this).siblings(".show-link").removeClass("hidden");
 						}
 					);
 					$(".show-thumb img").mouseout (
 						function() {
-							$(this).find(".show-link").addClass("hidden");
+							$(this).siblings(".show-link").addClass("hidden");
 						}
 					);
 				})(jQuery);
