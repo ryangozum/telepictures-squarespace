@@ -15,6 +15,7 @@ a
 
 a:hover
 {
+    color: #e3471d;
     text-decoration: underline;
 }
 
@@ -46,9 +47,14 @@ a:hover
 }
 
 /* main nav */
-.main-navigation
+
+.navigation
 {
     background: #1c1c1c;
+}
+
+.main-navigation
+{
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -125,7 +131,7 @@ h3.sb-header
 
 .footer a:hover
 {
-    color: #fff;
+    color: #f3f3f3;
 }
 
 .footer h3
@@ -152,4 +158,14 @@ h3.sb-header
 #footer-site-copy-right .container
 {
     border-top: solid 1px #353535;
+}
+
+#footer-site-info .adobe
+{
+    padding-left: 0;
+}
+
+#footer-site-info img.pull-left
+{
+    margin-right: 10px;
 }

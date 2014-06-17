@@ -28,6 +28,9 @@
 <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 <header id="header-site">
     <div class="header">
+        <div class="navigation">
+        	<div class="container"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
+        </div>
         <div class="container">
             <squarespace:navigation navigationId="mainNav" template="navigation" />
             <div class="site-name">
