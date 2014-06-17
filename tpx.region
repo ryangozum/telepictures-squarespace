@@ -156,6 +156,12 @@
 							$(".show-link").addClass("show");
 						}
 					);
+					$(".show-thumb").mouseout (
+						function() {
+							$(".show-link").removeClass("show");
+							$(".show-link").addClass("hidden");
+						}
+					);
 				})(jQuery);
             </script>
 
