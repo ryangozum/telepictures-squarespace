@@ -7,6 +7,30 @@
     }
 }
 
+/* ================================== */
+/* ipad styles :: portrait view only */
+@media only screen and (orientation:portrait) and (min-device-width: 768px)
+{
+
+    .carousel-caption
+    {
+        left: 700px;
+        top: 60px;
+    }
+
+    .item.candidly .carousel-caption,
+    .item.laa .carousel-caption,
+    .item.peoplescourt .carousel-caption
+    {
+            top: 70px;
+    }
+
+    .item.ellen .carousel-caption
+    {
+            top: 80px;
+    }
+
+}
 
 /* ================================== */
 /* ipad styles :: landscape view only */
@@ -18,16 +42,3 @@
     }
 }
 
-
-/* ================================== */
-/* ipad styles :: portrait view only */
-@media only screen and (orientation:portrait) and (min-device-width: 768px)
-{
-
-    .carousel-caption
-    {
-        left: 300px;
-        top: 60px;
-    }
-
-}
