@@ -15,7 +15,7 @@
     .carousel-caption
     {
         font-size: 14px;
-        left: 500px;
+        left: 550px;
         top: 60px;
     }
 
@@ -23,12 +23,12 @@
     .item.laa .carousel-caption,
     .item.peoplescourt .carousel-caption
     {
-            top: 70px;
+         top: 70px;
     }
 
     .item.ellen .carousel-caption
     {
-            top: 80px;
+         top: 86px;
     }
 
     .carousel-caption p
@@ -44,7 +44,21 @@
 {
     .carousel-caption
     {
-        left: 780px;
+        left: 700px;
+        top: 100px;
     }
+
+    .item.candidly .carousel-caption,
+    .item.laa .carousel-caption,
+    .item.peoplescourt .carousel-caption
+    {
+         top: 120px;
+    }
+
+    .item.ellen .carousel-caption
+    {
+         top: 140px;
+    }
+
 }
 
