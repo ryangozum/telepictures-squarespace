@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+    color: #000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+a
+{
+    color: #e3471d;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+/* header */
+
+.header
+{
+    background: #4fabd1;
+    height: 300px;
+}
+
+.site-name
+{
+    text-align: center;
+}
+
+.site-name h1
+{
+    color: #191919;
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.site-name h3.tagline
+{
+    font-size: 24px;
+    font-weight: 300;
+}
+
+/* main nav */
+.main-navigation
+{
+    background: #1c1c1c;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.main-navigation ul
+{
+    display: inline-block;
+    list-style: none outside none;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.main-navigation ul > li
+{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+.main-navigation a
+{
+    color: #fff;
+    display: block;
+    padding: 16px 13px 18px;
+    text-decoration: none;
+}
+
+.main-navigation a:hover,
+.main-navigation .active-link a,
+.main-navigation .active-link a:hover
+{
+    color: #f97552;
+    text-decoration: none;
+}
+
+/* content */
+
+h2.page-header
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/* sidebar */
+
+h3.sb-header
+{
+    color: #1c1c1c;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* footer */
+
+.footer
+{
+    background: #1c1c1c;
+    color: #616161;
+    font-size: 14px;
+}
+
+.footer a
+{
+ 	color: #616161;
+    text-decoration: underline;
+}
+
+.footer a:hover
+{
+    color: #fff;
+}
+
+.footer h3
+{
+    color: #f3f3f3;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.footer .container
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#footer-site-copy-right
+{
+    font-size: 12px;
+    text-align: center;
+}
+
+#footer-site-copy-right .container
+{
+    border-top: solid 1px #353535;
+}

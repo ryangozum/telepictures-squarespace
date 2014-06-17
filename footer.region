@@ -2,14 +2,14 @@
     <!-- end container -->
 </div>
 <!-- end content -->
-<footer id="footer-site-info">
+<footer id="footer-site-info" class="footer">
     <div class="container">
         <div class="col-xs-8 col-sm-8 col-md-8">
             <h3>Please Note</h3>
-            <div class="col-xs-3 col-sm-3 col-md-3"> <a href="http://get.adobe.com/reader/" target="_blank"><img src="assets/get_adobe_reader.gif" border="0" alt="Get Adobe Acrobat Reader" class="pull-left"></a>
+            <div class="adobe col-xs-4 col-sm-4 col-md-4"> <a href="http://get.adobe.com/reader/" target="_blank"><img src="/assets/get_adobe_reader.gif" border="0" alt="Get Adobe Acrobat Reader" class="pull-left"></a>
                 <p>You'll need Adobe Acrobat to view and print documents. If you haven't previously installed this program, <a href="http://get.adobe.com/reader/" target="_blank">click here for your free Adobe Acrobat Reader Download</a>.</p>
             </div>
-            <div class="col-xs-5 col-sm-5 col-md-5">
+            <div class="notice col-xs-8 col-sm-8 col-md-8">
                 <p>The Company reserves the right to change, amend, terminate or discontinue a plan in whole or in part at any time for any reason. Please note that eligibility for these plans do not create an employment contract between you and the Company and do not give you any right, express or implied, of continued employment with the Company.</p>
                 <p>This site is for informational purposes only. Your eligibility for benefits described on this site is based on your employment classification with the Company and the terms of the applicable benefit plan document. All eligibility determinations and benefit questions should be directed to Benefits. </p>
                 <p>For your convenience, Bene-FACTS contain links to other sites. Bene-FACTS is not responsible for the availability or security of those external sites or for any content, advertising, products or other materials available on or from those sites.</p>
@@ -22,7 +22,7 @@
     </div>
 </footer>
 <!-- end footer-site-info -->
-<footer id="footer-site-copy-right">
+<footer id="footer-site-copy-right" class="footer">
     <div class="container">
         <p>&copy; <script>document.write(new Date().getFullYear())</script> Telepictures Productions</p>
     </div>
