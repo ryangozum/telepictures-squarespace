@@ -104,12 +104,12 @@
         <!-- end carousel-tpx-shows -->
         <div class="container clearfix">
             <div class="row">
-                <div class="col-xs-3 col-md-3 col-md-offset-2">
+                <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
                     <h2 class="page-header">Shows</h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-3 col-md-3 col-md-offset-2">
+                <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
                     <div class="show-thumb"><a href="http://www.bethenny.com" target="_blank"><img src="/assets/thumb_bethenny.jpg" alt="Bethenny"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
@@ -120,7 +120,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-3 col-md-3 col-md-offset-2">
+                <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
                     <div class="show-thumb"><a href="http://www.extratv.com" target="_blank"><img src="/assets/thumb_extra.jpg" alt="Extra"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
@@ -131,7 +131,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-3 col-md-3 col-md-offset-2">
+                <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
                     <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="/assets/thumb_peoplescourt.jpg" alt="People's Court"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3">
@@ -142,7 +142,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-3 col-md-3 col-md-offset-2">
+                <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
                     <div class="show-thumb"><a href="http://www.tmz.com" target="_blank"><img src="/assets/thumb_tmzlive.jpg" alt="TMZ Live"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
                 <div class="col-xs-3 col-md-3"></div>
