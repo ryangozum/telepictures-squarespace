@@ -12,11 +12,9 @@
 /* ipad styles :: landscape view only */
 @media (orientation:landscape) and (max-device-width: 768px)
 {
-
     .carousel-caption
     {
-        left: 300px;
-        top: 60px;
+        left: 780px;
     }
 }
 
@@ -28,7 +26,8 @@
 
     .carousel-caption
     {
-        left: 780px;
+        left: 300px;
+        top: 60px;
     }
 
 }
