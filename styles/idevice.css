@@ -8,6 +8,7 @@
     html,
     body
     {
+        width: 750px;
         min-width: 750px;
     }
 
