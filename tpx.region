@@ -173,5 +173,10 @@
         <p><a href="http://www.warnerbros.com/privacy/terms.html?adid=tpxfooterlink" target="_blank">Terms of Use</a> | <a href=" http://www.warnerbros.com/privacy/policy.html?adid=tpxfooterlink" target="_blank">Privacy Policy</a> | <a href="http://www.warnerbros.com/main/advertisewithwb.html?adid=tpxfooterlink" target="_blank">Advertise with Us</a> | <a href="http://www.warnerbroscareers.com/?adid=tpxfooterlink" target="_blank">Job Opportunities</a> |  &copy; Warner Bros. Entertainment Inc.</p>
     </div>
 </footer>
+<!--Combo and minify the scripts when you're not logged in.-->
+<squarespace:script src="site.js" combo="{.if authenticatedAccount}false{.or}true{.end}" />
+
+<!--Injection point for tracking scripts and user content from the code injection tab.-->
+{squarespace-footers}
 </body>
 </html>

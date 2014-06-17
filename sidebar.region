@@ -1,0 +1,37 @@
+<div id="sidebar-wrap" class="col-xs-4 col-md-4">
+    <aside id="sidebar" class="clearfix">
+        <h3 class="sb-header">Forms</h3>
+        <ul>
+            <li><a href="/docs/EnrollmentForm.pdf" target="_blank">Medical/Dental Enrollment Form</a></li>
+            <li><a href="" target="_blank">Benefits Change Form</a></li>
+            <li><a href="" target="_blank">Declination of Coverage Form</a></li>
+            <li><a href="" target="_blank">Aetna Medical POS and PPO Claim Form</a></li>
+            <li><a href="" target="_blank">Aetna Pharmacy Mail Order Form</a></li>
+            <li><a href="" target="_blank">Aetna Pharmacy Out-of-Network Claim Form</a></li>
+            <li><a href="" target="_blank">Aetna Dental PPO Claim Form</a></li>
+            <li><a href="" target="_blank">VSP Out-of-Network Claim Form</a></li>
+            <li><a href="" target="_blank">FSA Enrollment Form</a></li>
+            <li><a href="" target="_blank">FSA Health Care Reimbursement Form</a></li>
+            <li><a href="" target="_blank">FSA Dependent Care Reimbursement Form</a></li>
+            <li><a href="" target="_blank">FSA Over the Counter Health Care Reimbursement Form</a></li>
+            <li><a href="" target="_blank">FSA Direct Deposit Authorization Form</a></li>
+            <li><a href="" target="_blank">Life Insurance Beneficiary Form</a></li>
+            <li><a href="" target="_blank">401(k) Beneficiary Form</a></li>
+            <li><a href="" target="_blank">401(k) Rollover Form</a></li>
+            <li><a href="" target="_blank">401(k) Catch-Up Enrollment Form</a></li>
+            <li><a href="" target="_blank">401(k) Payout Request Form</a></li>
+            <li><a href="" target="_blank">401(k) Minimum Payout Request Form</a></li>
+            <li><a href="" target="_blank">401(k) QDRO Payout Request Form</a></li>
+            <li><a href="" target="_blank">Domestic Partner Affidavit</a></li>
+        </ul>
+        <p><strong>Please return completed forms to:</strong></p>
+        <address>
+        <strong>Benefits<br>
+        3500 West Olive, Suite 1000<br>
+        Burbank, CA 91505<br>
+        Phone: (818) 972-8914<br>
+        Fax: (818) 972-8992 </strong>
+        </address>
+    </aside>
+</div>
+<!-- end sidebar-wrap -->

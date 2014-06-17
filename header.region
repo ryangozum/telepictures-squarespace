@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="scripts/jquery-1.11.1.min.js"><\/script>')</script>
+<squarespace:script src="bootstrap.min.js" />
+<squarespace:script src="modernizr.js" />
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Lato:400,700,300' rel='stylesheet' type='text/css'>
+<!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
+{squarespace-headers}
+<!--[if IE 7]>
+      	<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-ie7.css" />
+    <![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/assets/css/ie8.css" />
+    <![endif]-->
+</head>
+
+<body id="{squarespace.page-id}" class="{squarespace.page-classes}">
+<header id="header-site">
+    <div class="header">
+        <div class="container">
+            <squarespace:navigation navigationId="mainNav" template="navigation" />
+            <div class="site-name">
+                <h1>Bene-Facts</h1>
+                <h3 class="tagline">Employee Benefits Site</h3>
+            </div>
+        </div>
+    </div>
+</header>
+<div id="content">
+    <div class="container">
