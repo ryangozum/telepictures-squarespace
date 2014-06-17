@@ -102,7 +102,7 @@ h2.page-header
     left: 0;
     padding: 6px 0 0 10px;
     position: absolute;
-    width: 227px;
+    width: 100%;
     /* For IE 8 */
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000)";
 }
