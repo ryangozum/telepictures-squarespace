@@ -5,9 +5,30 @@
     {
         width: 100%;
     }
+}
+
+
+/* ================================== */
+/* ipad styles :: landscape view only */
+@media (orientation:landscape) and (max-device-width: 768px)
+{
 
     .carousel-caption
     {
-        left: 800px;
+        left: 500px;
+        top: 90px;
     }
+}
+
+
+/* ================================== */
+/* ipad styles :: portrait view only */
+@media only screen and (orientation:portrait) and (min-device-width: 768px)
+{
+
+    .carousel-caption
+    {
+        left: 730px;
+    }
+
 }
