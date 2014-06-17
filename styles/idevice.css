@@ -1,7 +1,8 @@
 /* ipad styles (both orientations) */
 @media only screen and (max-device-width: 768px)
 {
-    #carousel-tpx-shows
+    #carousel-tpx-shows,
+    .show-link
     {
         width: 100%;
     }
