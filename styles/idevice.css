@@ -1,0 +1,13 @@
+/* ipad styles (both orientations) */
+@media only screen and (max-device-width: 768px)
+{
+    #carousel-tpx-shows
+    {
+        width: 1170px;
+    }
+
+    #carousel-tpx-shows .item img
+    {
+        max-width: 1170px;
+    }
+}
