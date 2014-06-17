@@ -1,15 +1,9 @@
 /* ipad styles (both orientations) */
 @media only screen and (max-device-width: 768px)
 {
-    .header,
-    #footer-site-copy-right
-    {
-        width: 1170px;
-    }
-
     #carousel-tpx-shows
     {
-        width: 1000px;
+        width: 1170px;
     }
 
     .carousel-caption
