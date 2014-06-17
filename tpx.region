@@ -152,13 +152,11 @@
 				(function($) {
 					$(".show-thumb").hover (
 						function() {
-							$(".show-link").removeClass("hidden");
-							$(this).find(".show-link").addClass("show");
+							$(this).find(".show-link").removeClass("hidden");
 						}
 					);
 					$(".show-thumb").mouseout (
 						function() {
-							$(".show-link").removeClass("show");
 							$(this).find(".show-link").addClass("hidden");
 						}
 					);
