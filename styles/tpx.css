@@ -117,6 +117,10 @@ h2.page-header
     padding: 6px 0 0 10px;
     position: absolute;
     width: 227px;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000)";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);
 }
 
 /* footer */
