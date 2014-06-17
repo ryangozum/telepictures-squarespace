@@ -14,7 +14,8 @@
 
     .carousel-caption
     {
-        left: 700px;
+        font-size: 14px;
+        left: 600px;
         top: 60px;
     }
 
