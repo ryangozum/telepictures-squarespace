@@ -28,7 +28,7 @@
 <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
 <header id="header-site">
     <div class="header-tpx">
-        <div class="navigation" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
+        <div class="navigation" data-spy="affix" data-offset-top="60">
         	<div class="container"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
         </div>
         <div class="container">
