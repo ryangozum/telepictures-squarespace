@@ -10,15 +10,17 @@
 <p>Filtering by Tag: {@|safe}</p>
 {.end}
 
+<!-- welcome message -->
+<div class="content-section">
+    <h2 class="page-header">Welcome</h2>
+    <p>Welcome to <strong>Bene-FACTS</strong>, your online resource for Company-sponsored benefit plans that may apply to you. Here you'll find everything you need to know about the benefit plans for which you may be eligible including important announcements &amp; mandatory postings, open enrollment dates, plan summaries &amp; supporting documents, forms, links to vendors, all just a click away.</p>
+</div>
+
 <!--ITEM LOOP-->
 
 {.repeated section items}
 
 <!--WRAPPER-->
-<div class="content-section">
-    <h2 class="page-header">Welcome</h2>
-    <p>Welcome to <strong>Bene-FACTS</strong>, your online resource for Company-sponsored benefit plans that may apply to you. Here you'll find everything you need to know about the benefit plans for which you may be eligible including important announcements &amp; mandatory postings, open enrollment dates, plan summaries &amp; supporting documents, forms, links to vendors, all just a click away.</p>
-</div>
 <div class="content-section">
     <h2 class="page-header">Announcements</h2>
     <article id="post-{id}" class="{@|item-classes}">
