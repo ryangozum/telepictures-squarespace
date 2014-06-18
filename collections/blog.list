@@ -24,7 +24,7 @@
     <article id="post-{id}" class="{@|item-classes}">
         <div class="blog-item">
             <!--POST TILE-->
-            <h3 class="blog-title title"><a href="{fullUrl}">{title}</a></h3>
+            <h3 class="blog-title title">{title}</h3>
             <!--EXCERPT OR BODY-->
             {.if excerpt}
             <div class="blog-excerpt"> {excerpt}
