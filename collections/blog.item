@@ -6,7 +6,7 @@
 
     <!--POST TILE-->
 
-    <h1 class="page-title title"> {title}</h1>
+    <h2 class="page-header title"> {title}</h2>
 
     <!--MAIN CONTENT-->
     <div class="blog-content"> {body} </div>
