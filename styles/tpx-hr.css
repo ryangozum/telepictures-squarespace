@@ -51,17 +51,21 @@ a:hover
 
 /* main nav */
 
-.navigation
-{
-    background: #1c1c1c;
-}
-
 .main-navigation
 {
+    background: #1c1c1c;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
+}
+
+.main-navigation.affix
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999930;
 }
 
 .main-navigation ul

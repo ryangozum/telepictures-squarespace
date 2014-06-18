@@ -1,5 +1,5 @@
-<nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav">
-  <ul class="main-navigation-list">
+<nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="200">
+  <ul class="main-navigation-list container">
     {.repeated section items}
 
         <li class="main-navigation-item {.section active} active-link{.end}{.if folderActive} active-folder{.end}">
