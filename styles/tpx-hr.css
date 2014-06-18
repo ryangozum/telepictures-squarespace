@@ -70,11 +70,9 @@ a:hover
 
 .main-navigation ul
 {
-    display: inline-block;
+    display: block;
     list-style: none outside none;
     margin-bottom: 0;
-    margin-left: 0;
-    padding-left: 0;
 }
 
 .main-navigation ul > li
