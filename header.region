@@ -26,11 +26,13 @@
 </head>
 
 <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
+<div class="navigation" data-spy="affix" data-offset-top="60">
+    <div class="container">
+        <squarespace:navigation navigationId="mainNav" template="navigation" />
+    </div>
+</div>
 <header id="header-site">
     <div class="header-tpx">
-        <div class="navigation" data-spy="affix" data-offset-top="60">
-        	<div class="container"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
-        </div>
         <div class="container">
             <div class="site-name">
                 <h1>Bene-Facts</h1>
