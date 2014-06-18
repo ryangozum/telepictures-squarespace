@@ -99,6 +99,11 @@ a:hover
 
 /* content */
 
+#main-wrap
+{
+    padding-right: 20px;
+}
+
 h2.page-header
 {
     color: #343434;
@@ -121,6 +126,11 @@ strong
 }
 
 /* sidebar */
+
+#sidebar-wrap
+{
+    padding-left: 20px;
+}
 
 h3.sb-header
 {
