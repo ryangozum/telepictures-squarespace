@@ -132,9 +132,22 @@ strong
  	margin-bottom: 40px;
 }
 
-.content-section p
+.blog-item
 {
     margin-bottom: 25px;
+}
+
+h3.blog-title,
+h3.blog-title a
+{
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+h3.blog-title a:hover
+{
+    color: #000;
 }
 
 /* sidebar */
