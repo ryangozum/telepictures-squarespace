@@ -1,4 +1,4 @@
-<nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="200">
+<nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="60">
   <ul class="main-navigation-list container">
     {.repeated section items}
 
