@@ -101,7 +101,7 @@ a:hover
 
 #main-wrap
 {
-    padding-right: 20px;
+    padding-right: 40px;
 }
 
 h2.page-header
@@ -125,12 +125,17 @@ strong
     font-weight: 700;
 }
 
-/* sidebar */
-
-#sidebar-wrap
+.content-section
 {
-    padding-left: 20px;
+ 	margin-bottom: 40px;
 }
+
+.content-section p
+{
+    margin-bottom: 25px;
+}
+
+/* sidebar */
 
 h3.sb-header
 {
