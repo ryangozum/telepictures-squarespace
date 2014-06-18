@@ -132,9 +132,15 @@ h3.sb-header
     text-transform: uppercase;
 }
 
+#sidebar ul
+{
+	padding-left: 15px;
+}
+
 #sidebar li
 {
     list-style-type: square;
+    margin-bottom: 10px;
 }
 
 /* footer */
