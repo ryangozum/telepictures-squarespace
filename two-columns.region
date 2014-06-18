@@ -1,4 +1,4 @@
-<div id="main-wrap" class="col-xs-8 col-md-8">
+<div id="main-wrap" class="col-xs-7 col-md-7">
     <main id="main" class="clearfix" role="main">
         {squarespace.main-content}
     </main>
