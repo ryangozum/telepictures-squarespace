@@ -29,6 +29,7 @@ a:hover
 
 .site-name
 {
+    margin-top: 70px;
     text-align: center;
 }
 
@@ -37,6 +38,7 @@ a:hover
     color: #191919;
     font-size: 60px;
     font-weight: 700;
+    margin-bottom: 0;
     text-transform: uppercase;
 }
 
@@ -44,6 +46,7 @@ a:hover
 {
     font-size: 24px;
     font-weight: 300;
+    margin-top: 0;
 }
 
 /* main nav */
@@ -98,6 +101,7 @@ a:hover
 
 h2.page-header
 {
+    color: #343434;
     border-bottom: 1px solid #363636;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 28px;
@@ -120,12 +124,17 @@ strong
 
 h3.sb-header
 {
-    color: #1c1c1c;
+    color: #343434;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 20px;
     font-weight: 700;
     margin-top: 0;
     text-transform: uppercase;
+}
+
+.sidebar li
+{
+    list-style-type: square;
 }
 
 /* footer */
