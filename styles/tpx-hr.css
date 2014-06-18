@@ -115,6 +115,11 @@ h2.page-header
     text-transform: uppercase;
 }
 
+.collection-type-blog.view-item h2.page-header
+{
+    text-transform: none;
+}
+
 #content .container
 {
     padding-top: 60px;
@@ -149,6 +154,27 @@ h3.blog-title a:hover
 {
     color: #000;
 }
+
+a.disabled
+{
+    color: #666;
+}
+
+a.disabled:hover
+{
+    text-decoration: none;
+}
+
+.blog-nav-page-prev
+{
+    float: left;
+}
+
+.blog-nav-page-next
+{
+    float: right;
+}
+
 
 /* sidebar */
 
