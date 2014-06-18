@@ -132,7 +132,7 @@ h3.sb-header
     text-transform: uppercase;
 }
 
-.sidebar li
+#sidebar li
 {
     list-style-type: square;
 }
