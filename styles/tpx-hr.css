@@ -98,8 +98,21 @@ a:hover
 
 h2.page-header
 {
+    border-bottom: 1px solid #363636;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 28px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+#content .container
+{
+    padding-top: 60px;
+}
+
+b,
+strong
+{
     font-weight: 700;
 }
 
@@ -111,6 +124,7 @@ h3.sb-header
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 20px;
     font-weight: 700;
+    margin-top: 0;
     text-transform: uppercase;
 }
 
@@ -125,13 +139,12 @@ h3.sb-header
 
 .footer a
 {
- 	color: #616161;
-    text-decoration: underline;
+ 	color: #a5a5a5;
 }
 
 .footer a:hover
 {
-    color: #f3f3f3;
+    text-decoration: underline;
 }
 
 .footer h3
@@ -140,6 +153,7 @@ h3.sb-header
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 20px;
     font-weight: 700;
+    margin-bottom: 20px;
     text-transform: uppercase;
 }
 

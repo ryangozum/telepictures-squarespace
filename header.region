@@ -32,7 +32,6 @@
         	<div class="container"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
         </div>
         <div class="container">
-            <squarespace:navigation navigationId="mainNav" template="navigation" />
             <div class="site-name">
                 <h1>Bene-Facts</h1>
                 <h3 class="tagline">Employee Benefits Site</h3>
