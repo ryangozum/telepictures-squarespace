@@ -13,6 +13,11 @@ a
     color: #e3471d;
 }
 
+a:visited
+{
+    color: #cc3e1a;
+}
+
 a:hover
 {
     color: #e3471d;
