@@ -189,10 +189,9 @@ a.disabled:hover
 
 .plan-row.middle
 {
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
- 	padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f1f1f1;
 }
 
 .plan-bump
