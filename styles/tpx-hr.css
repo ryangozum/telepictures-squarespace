@@ -182,6 +182,16 @@ a.disabled:hover
     float: right;
 }
 
+.plan-row
+{
+    margin-bottom: 30px;
+}
+
+.plan-bump
+{
+    margin-top: 30px;
+}
+
 /* sidebar */
 
 h3.sb-header
