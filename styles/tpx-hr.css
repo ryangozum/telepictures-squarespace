@@ -184,12 +184,12 @@ a.disabled:hover
 
 .plan-row
 {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .plan-bump
 {
-    margin-top: 30px;
+    margin-top: 30px !important;
 }
 
 /* sidebar */
