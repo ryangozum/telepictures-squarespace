@@ -187,6 +187,14 @@ a.disabled:hover
     margin-bottom: 40px;
 }
 
+.plan-row.middle
+{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+ 	padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .plan-bump
 {
     margin-top: 27px !important;
