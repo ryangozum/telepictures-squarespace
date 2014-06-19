@@ -23,7 +23,7 @@
     </div>
 </footer>
 <!-- end footer-site-info -->
-<footer id="footer-site-copy-right" class="footer">
+<footer id="footer-hr-site-copy-right" class="footer">
     <div class="container">
         <p>&copy; <script>document.write(new Date().getFullYear())</script> Telepictures Productions</p>
     </div>

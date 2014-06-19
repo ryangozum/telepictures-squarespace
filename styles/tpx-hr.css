@@ -268,13 +268,13 @@ h3.sb-header
     padding-bottom: 25px;
 }
 
-#footer-site-copy-right
+#footer-hr-site-copy-right
 {
     font-size: 12px;
     text-align: center;
 }
 
-#footer-site-copy-right .container
+#footer-hr-site-copy-right .container
 {
     border-top: solid 1px #353535;
 }
