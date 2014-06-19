@@ -25,7 +25,7 @@
 <![endif]-->
 </head>
 
-<body id="{squarespace.page-id}" class="{squarespace.page-classes}">
+<body id="tpx {squarespace.page-id}" class="{squarespace.page-classes}">
 <header id="header-site">
     <div class="header">
         <div class="container">
