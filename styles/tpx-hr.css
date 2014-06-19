@@ -192,6 +192,12 @@ a.disabled:hover
     margin-top: 27px !important;
 }
 
+.plan-emphasis
+{
+ 	font-weight: 700;
+    text-transform: uppercase;
+}
+
 /* sidebar */
 
 h3.sb-header
