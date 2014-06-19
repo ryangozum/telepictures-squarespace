@@ -205,6 +205,11 @@ a.disabled:hover
     text-transform: uppercase;
 }
 
+h5.plan-sub-header
+{
+    font-size: 16px;
+}
+
 /* sidebar */
 
 h3.sb-header
