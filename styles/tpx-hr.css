@@ -78,15 +78,15 @@ a:hover
 }
 
 .main-navigation .active-link a,
-.navbar-inverse .navbar-nav > li > .active-link a
+.navbar-inverse .navbar-nav > li.active-link >  a
 {
     color: #f97552;
     text-decoration: none;
 }
 
 .main-navigation a:hover,
-.navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > .active-link a:hover,
+.navbar-inverse .navbar-nav > li.active-link > a:hover,
+.navbar-inverse .navbar-nav > li.active-link > a:hover,
 .main-navigation .active-link a:hover
 {
     color: #f97552;
