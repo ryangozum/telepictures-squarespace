@@ -85,7 +85,7 @@ a:hover
 }
 
 .main-navigation a:hover,
-.navbar-inverse .navbar-nav > li.active-link > a:hover,
+.navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li.active-link > a:hover,
 .main-navigation .active-link a:hover
 {
