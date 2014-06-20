@@ -1,5 +1,6 @@
 <nav id="main-navigation" class="main-navigation collapse navbar-collapse" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="60">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".main-navigation-list">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".main-navigation-list"></button>
+
     <ul class="main-navigation-list container">
 
       {.repeated section items}
