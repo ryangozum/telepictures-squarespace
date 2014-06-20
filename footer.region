@@ -8,7 +8,7 @@
             <h3>Please Note</h3>
             <div class="adobe col-xs-4 col-sm-4 col-md-4">
                 <p>You'll need Adobe Acrobat to view and print documents. If you haven't previously installed this program, <a href="http://get.adobe.com/reader/" target="_blank">click here for your free Adobe Acrobat Reader Download</a>.</p>
-                <a href="http://get.adobe.com/reader/" target="_blank"><img src="/assets/get_adobe_reader.gif" border="0" alt="Get Adobe Acrobat Reader"></a>
+                <a href="http://get.adobe.com/reader/" target="_blank"><img src="/assets/get_adobe_reader.gif" class="img-responsive" border="0" alt="Get Adobe Acrobat Reader"></a>
             </div>
             <div class="notice col-xs-8 col-sm-8 col-md-8">
                 <p>The Company reserves the right to change, amend, terminate or discontinue a plan in whole or in part at any time for any reason. Please note that eligibility for these plans do not create an employment contract between you and the Company and do not give you any right, express or implied, of continued employment with the Company.</p>
