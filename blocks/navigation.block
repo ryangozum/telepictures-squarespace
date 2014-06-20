@@ -1,4 +1,4 @@
-<nav id="main-navigation" data-content-field="navigation-mainNav" class="navbar-inverse" role="navigation" data-spy="affix" data-offset-top="60">
+<nav id="main-navigation" data-content-field="navigation-mainNav" class="main-navigation navbar-inverse" role="navigation" data-spy="affix" data-offset-top="60">
 <div class="container-fluid">
 <!-- Brand and toggle get grouped for better mobile display -->
 <div>
