@@ -1,6 +1,8 @@
 <nav id="main-navigation" class="main-navigation collapse navbar-collapse" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="60">
-  <ul class="main-navigation-list nav navbar-nav container">
-    {.repeated section items}
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".main-navigation-list">
+    <ul class="main-navigation-list container">
+
+      {.repeated section items}
 
         <li class="main-navigation-item {.section active} active-link{.end}{.if folderActive} active-folder{.end}">
 
