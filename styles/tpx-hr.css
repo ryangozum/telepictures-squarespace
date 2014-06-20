@@ -68,22 +68,8 @@ a:hover
     z-index: 99999930;
 }
 
-.main-navigation ul
-{
-    display: block;
-    list-style: none outside none;
-    margin-bottom: 0;
-}
-
-.main-navigation ul > li
-{
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    vertical-align: top;
-}
-
-.main-navigation a
+.main-navigation a,
+.navbar-inverse .navbar-nav > li > a
 {
     color: #fff;
     display: block;
@@ -92,6 +78,9 @@ a:hover
 }
 
 .main-navigation a:hover,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > .active-link a,
+.navbar-inverse .navbar-nav > li > .active-link a:hover,
 .main-navigation .active-link a,
 .main-navigation .active-link a:hover
 {

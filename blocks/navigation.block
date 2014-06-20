@@ -6,7 +6,7 @@
 
 <!-- Collect the nav links, forms, and other content for toggling -->
 <div class="collapse navbar-collapse" id="top-nav">
-<ul class="main-navigation-list nav navbar-nav">
+<ul class="main-navigation-list container">
 {.repeated section items}
 <li class="main-navigation-item {.section active} active-link{.end}{.if folderActive} active-folder{.end}"> {.folder?}
 
