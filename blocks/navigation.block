@@ -1,8 +1,10 @@
 <nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="60">
     <div class="container-fluid">
+        <!-- toggle get grouped for better mobile display -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="top-nav"><span class="sr-only">Toggle navigation</span></button>
-            <a href="#">Navigation</a> </div>
+            </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collpase" id="top-nav">
             <ul class="main-navigation-list container">
                 {.repeated section items}
