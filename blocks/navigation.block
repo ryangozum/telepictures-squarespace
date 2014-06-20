@@ -1,38 +1,49 @@
-<nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="60">
-    <ul class="main-navigation-list container">
+<nav id="main-navigation" data-content-field="navigation-mainNav" class="navbar navbar-inverse" role="navigation" data-spy="affix" data-offset-top="60">
+<div class="container-fluid">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    <a class="navbar-brand" href="#">Navigation</a> </div>
+
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="main-navigation-list nav navbar-nav">
+{.repeated section items}
+<li class="main-navigation-item {.section active} active-link{.end}{.if folderActive} active-folder{.end}"> {.folder?}
+
+    <!--FOLDER-->
+
+    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+    <ul>
         {.repeated section items}
-        <li class="main-navigation-item {.section active} active-link{.end}{.if folderActive} active-folder{.end}"> {.folder?}
 
-            <!--FOLDER-->
+        <!--COLLECTION IN A FOLDER-->
 
-            <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-            <ul>
-                {.repeated section items}
+        {.collection?}
+        <li class="{.section active} active-link{.end}"> <a href="{collection.fullUrl}"> {collection.navigationTitle} </a> </li>
+        {.end}
 
-                <!--COLLECTION IN A FOLDER-->
+        <!--EXTERNAL LINK IN A FOLDER-->
 
-                {.collection?}
-                <li class="{.section active} active-link{.end}"> <a href="{collection.fullUrl}"> {collection.navigationTitle} </a> </li>
-                {.end}
-
-                <!--EXTERNAL LINK IN A FOLDER-->
-
-                {.section externalLink}
-                <li class="main-navigation-dropdown"> <a href="{url}"{.section newWindow} target="_blank"{.end}> {title} </a> </li>
-                {.end}
-                {.end}
-            </ul>
-            {.or}
-
-            <!--COLLECTION-->
-
-            {.section collection} <a href="{fullUrl}">{navigationTitle}</a> {.end}
-
-            <!--EXTERNAL LINK-->
-
-            {.section externalLink} <a href="{url}"{.section newWindow} target="_blank"{.end}> {title} </a> {.end}
-
-            {.end} </li>
+        {.section externalLink}
+        <li class="main-navigation-dropdown"> <a href="{url}"{.section newWindow} target="_blank"{.end}> {title} </a> </li>
+        {.end}
         {.end}
     </ul>
+    {.or}
+
+    <!--COLLECTION-->
+
+    {.section collection} <a href="{fullUrl}">{navigationTitle}</a> {.end}
+
+    <!--EXTERNAL LINK-->
+
+    {.section externalLink} <a href="{url}"{.section newWindow} target="_blank"{.end}> {title} </a> {.end}
+
+    {.end} </li>
+{.end}
+</div>
+<!-- /.navbar-collapse -->
+</div>
+<!-- /.container-fluid -->
 </nav>
