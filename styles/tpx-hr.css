@@ -97,6 +97,7 @@ a:hover
 {
     float: none;
     margin: 0 auto;
+    padding-left: 20px;
 }
 
 /* content */
