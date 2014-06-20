@@ -1,7 +1,7 @@
 <nav id="main-navigation" class="main-navigation" data-content-field="navigation-mainNav" role="navigation" data-spy="affix" data-offset-top="60">
     <div class="container-fluid">
         <!-- toggle get grouped for better mobile display -->
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#top-nav"><span class="sr-only">Toggle navigation</span></button>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#top-nav"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collpase" id="top-nav">
             <ul class="main-navigation-list container">
