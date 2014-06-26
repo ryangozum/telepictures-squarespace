@@ -15,7 +15,8 @@
 <squarespace:script src="modernizr.js" />
 <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/tpx.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/tpx.css" />
+
 <!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
 {squarespace-headers}
 
