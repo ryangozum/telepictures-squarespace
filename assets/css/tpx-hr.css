@@ -211,6 +211,13 @@ h5.plan-sub-header
     font-size: 16px;
 }
 
+.highlight,
+th.highlight,
+td.highlight
+{
+    background-color: #ffeae5;
+}
+
 /* sidebar */
 
 h3.sb-header
