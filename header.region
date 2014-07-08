@@ -5,9 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <link href="/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-        <link href="/scripts/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
-        <script src="/scripts/respond.proxy.js"></script>
 <!--[if lt IE 9]>
      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -16,6 +13,11 @@
 <script>window.jQuery || document.write('<script src="scripts/jquery-1.11.1.min.js"><\/script>')</script>
 <squarespace:script src="bootstrap.min.js" />
 <squarespace:script src="modernizr.js" />
+
+    <link href="/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+        <link href="/scripts/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+        <script src="/scripts/respond.proxy.js"></script>
+
 <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Lato:400,700,300' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="/assets/css/tpx-hr.css" />
