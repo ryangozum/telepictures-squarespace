@@ -2,7 +2,8 @@
 
 /* set width to overwrite responsive */
 
-.container
+.container,
+.container-fluid
 {
     width: 1170px !important;
     min-width: 1170px;
