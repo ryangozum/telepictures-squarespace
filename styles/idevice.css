@@ -48,20 +48,56 @@
 @media (max-width: 770px) {
 
     /* force navbar toggle on ipad */
-    .navbar-collapse {
-      width: auto;
-      border-top: 0;
-      box-shadow: none;
+    .navbar-header
+    {
+        float: none;
     }
-    .navbar-collapse.collapse {
-      display: block !important;
-      height: auto !important;
-      padding-bottom: 0;
-      overflow: visible !important;
+
+    .navbar-toggle
+    {
+        display: block;
     }
-    .navbar-collapse.in {
-      overflow-y: visible;
+
+    .navbar-collapse
+    {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
     }
+
+    .navbar-collapse.collapse
+    {
+        display: none!important;
+    }
+
+    .navbar-nav
+    {
+        float: none!important;
+    }
+
+    .navbar-nav>li
+    {
+        float: none;
+    }
+
+    .navbar-nav>li>a
+    {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    /* since 3.1.0 */
+
+    .navbar-collapse.collapse.in
+    {
+        display: block!important;
+        overflow-y: visible;
+    }
+
+    .collapsing
+    {
+        overflow: hidden!important;
+    }
+
 }
 
 
