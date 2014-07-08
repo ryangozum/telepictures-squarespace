@@ -7,41 +7,6 @@
     {
         width: 100%;
     }
-}
-
-/* ================================== */
-/* ipad styles :: portrait view only */
-@media only screen and (orientation:portrait) and (min-device-width: 768px)
-{
-
-    .carousel-caption
-    {
-        font-size: 14px;
-        left: 528px;
-        top: 55px;
-    }
-
-    .item.candidly .carousel-caption,
-    .item.laa .carousel-caption,
-    .item.peoplescourt .carousel-caption
-    {
-         top: 70px;
-    }
-
-    .item.ellen .carousel-caption
-    {
-         top: 90px;
-    }
-
-    .carousel-caption p
-    {
-        margin-bottom: 2px;
-    }
-
-    .main-navigation
-    {
-        font-size: 16px;
-    }
 
     /* force navbar toggle on ipad */
     .navbar-header
@@ -92,6 +57,41 @@
     .collapsing
     {
         overflow: hidden!important;
+    }
+}
+
+/* ================================== */
+/* ipad styles :: portrait view only */
+@media only screen and (orientation:portrait) and (min-device-width: 768px)
+{
+
+    .carousel-caption
+    {
+        font-size: 14px;
+        left: 528px;
+        top: 55px;
+    }
+
+    .item.candidly .carousel-caption,
+    .item.laa .carousel-caption,
+    .item.peoplescourt .carousel-caption
+    {
+         top: 70px;
+    }
+
+    .item.ellen .carousel-caption
+    {
+         top: 90px;
+    }
+
+    .carousel-caption p
+    {
+        margin-bottom: 2px;
+    }
+
+    .main-navigation
+    {
+        font-size: 16px;
     }
 
 }
