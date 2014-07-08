@@ -17,6 +17,10 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Lato:400,700,300' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="/assets/css/tpx-hr.css" />
 
+    <link href="/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+    <link href="/scripts/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+    <script src="/scripts/respond.proxy.js"></script>
+
 <!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
 {squarespace-headers}
 
@@ -25,9 +29,6 @@
     <![endif]-->
 <!--[if IE 8]>
 	<link rel="stylesheet" type="text/css" href="/assets/css/ie8.css" />
-    <link href="/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-    <link href="/scripts/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
-    <script src="/scripts/respond.proxy.js"></script>
     <![endif]-->
 
 </head>
