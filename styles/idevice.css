@@ -47,7 +47,7 @@
 
 /* ================================== */
 /* ipad styles :: portrait view only */
-@media only screen and (orientation:portrait) and (min-device-width: 769px)
+@media only screen and (orientation:portrait) and (max-width: 991px)
     .navbar-header {
         float: none;
     }
@@ -63,7 +63,7 @@
     }
     .navbar-nav {
         float: none!important;
-        margin: 7.5px -15px;
+        margin: 7px -15px;
     }
     .navbar-nav>li {
         float: none;
