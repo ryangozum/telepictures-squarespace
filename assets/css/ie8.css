@@ -13,3 +13,8 @@ body
 {
     min-width: 1170px;
 }
+
+.navbar-collapse.collapse
+{
+   display: block !important;
+}
