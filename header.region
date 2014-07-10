@@ -16,13 +16,13 @@
 <squarespace:script src="modernizr.js" />
 <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
 
-    <link href="/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-    <link href="/scripts/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
-    <script src="/scripts/respond.proxy.js"></script>
+<!-- Respond files -->
+<link href="/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/scripts/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/scripts/respond.proxy.js"></script>
 
 <link href='//fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Lato:400,700,300' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="/assets/css/tpx-hr.css" />
-
 
 <!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
 {squarespace-headers}
@@ -33,7 +33,6 @@
 <!--[if IE 8]>
 	<link rel="stylesheet" type="text/css" href="/assets/css/ie8.css" />
     <![endif]-->
-
 
 </head>
 
