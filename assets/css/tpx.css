@@ -122,3 +122,21 @@ h2.page-header
     padding-top: 15px;
     margin-top: 15px;
 }
+
+/* modal */
+
+.modal-content
+{
+    color: #000;
+}
+
+.modal-body a
+{
+    color: #06F;
+}
+
+.modal-body a:hover
+{
+    color: #06F;
+	text-decoration: underline;
+}
