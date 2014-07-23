@@ -147,6 +147,7 @@
                 </div>
                 <div class="col-xs-3 col-md-3">
                     <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="/assets/thumb_peoplescourt.jpg" class="img-responsive" alt="People's Court"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+				</div>
                 <div class="col-xs-3 col-md-3">
                     <div class="show-thumb"><a href="http://www.thereal.com/" target="_blank"><img src="/assets/thumb_thereal.jpg" class="img-responsive" alt="The Real"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
                 </div>
