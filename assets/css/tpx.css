@@ -54,7 +54,8 @@ a:hover
     width: 170px;
 }
 
-.item.candidly .carousel-caption,
+.item.candidly-vh1 .carousel-caption,
+.item.candidly-aol .carousel-caption,
 .item.laa .carousel-caption,
 .item.peoplescourt .carousel-caption
 {
