@@ -73,7 +73,8 @@
         top: 55px;
     }
 
-    .item.candidly .carousel-caption,
+    .item.candidly-vh1 .carousel-caption,
+	.item.candidly-aol .carousel-caption,
     .item.laa .carousel-caption,
     .item.peoplescourt .carousel-caption
     {
@@ -107,7 +108,8 @@
         top: 80px;
     }
 
-    .item.candidly .carousel-caption,
+    .item.candidly-aol .carousel-caption,
+	.item.candidly-vh1 .carousel-caption,
     .item.laa .carousel-caption,
     .item.peoplescourt .carousel-caption
     {
