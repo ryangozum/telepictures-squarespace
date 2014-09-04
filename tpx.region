@@ -129,7 +129,7 @@
             <!-- Controls -->
             <a class="left carousel-control" href="#carousel-tpx-shows" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#carousel-tpx-shows" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> </div>
         <!-- end carousel-tpx-shows -->
-        <div class="container clearfix">
+        <div class="container clearfix" id="show-grid">
             <div class="row">
                 <div class="col-xs-3 col-md-3">
                     <h2 class="page-header">Shows</h2>
