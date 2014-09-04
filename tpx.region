@@ -47,11 +47,13 @@
                         <p><a href="http://www.vh1.com/shows/candidly-nicole/" target="_blank">&raquo; Visit Site</a></p>
                     </div>
                 </div>
+
                 <div class="item candidly-aol"> <img src="/assets/slide_candidlynicole_aol.jpg" class="img-responsive" alt="Candidly Nicole AOL">
                     <div class="carousel-caption">
                         <p><a href="http://on.aol.com/show/candidly-nicole-517742769/" target="_blank">&raquo; Visit Site</a></p>
                     </div>
                 </div>
+
                 <div class="item ellen"> <img src="/assets/slide_ellen.jpg" class="img-responsive" alt="The Ellen DeGeneres Show">
                     <div class="carousel-caption">
                         <p><a href="http://www.ellentv.com/" target="_blank">&raquo; Visit Site</a></p>
@@ -59,36 +61,42 @@
                         <p><a href="http://www.ellentv.com/videos/" target="_blank">&raquo; Watch Videos</a></p>
                     </div>
                 </div>
-                <div class="item extra"> <img src="/assets/slide_extra2.jpg" class="img-responsive" alt="Extra">
+
+                <div class="item extra"> <img src="/assets/slide_extra.jpg" class="img-responsive" alt="Extra">
                     <div class="carousel-caption">
                         <p><a href="http://www.extratv.com/" target="_blank">&raquo; Visit Site</a></p>
                         <p> <a href="http://www.extratv.com/videos/" target="_blank">&raquo; Watch Videos</a></p>
                         <p><a href="http://photos.extratv.warnerbros.com/" target="_blank">&raquo; View Photos</a></p>
                     </div>
                 </div>
+
                 <div class="item mathis"> <img src="/assets/slide_judgemathis.jpg" class="img-responsive" alt="Judge Mathis">
                     <div class="carousel-caption">
                         <p><a href="http://judgemathistv.warnerbros.com/" target="_blank">&raquo; Visit Site</a></p>
                         <p> <a href="http://judgemathistv.warnerbros.com/about/whenitson.html/" target="_blank">&raquo; See When It's On</a></p>
                     </div>
                 </div>
+
                 <div class="item laa"> <img src="/assets/slide_letsaskamerica.jpg" class="img-responsive" alt="Let's Ask America">
                     <div class="carousel-caption">
                         <p><a href="http://www.letsaskamerica.tv/" target="_blank">&raquo; Visit Site</a></p>
                         <p> <a href="http://letsaskamerica.tv/be-on-the-show/755/?adid=tpxcom_beacontestant" target="_blank">&raquo; Be a Contestant</a></p>
                     </div>
                 </div>
+
                 <div class="item peoplescourt"> <img src="/assets/slide_peoplescourt.jpg" class="img-responsive" alt="People's Court">
                     <div class="carousel-caption">
                         <p><a href="http://peoplescourt.com/" target="_blank">&raquo; Visit Site</a></p>
                         <p> <a href="http://peoplescourt.com/when-its-on/" target="_blank">&raquo; See When It's On</a></p>
                     </div>
                 </div>
+
                 <div class="item thereal"> <img src="/assets/slide_thereal.jpg" class="img-responsive" alt="The Real">
                     <div class="carousel-caption">
                         <p><a href="http://thereal.com/" target="_blank">&raquo; Visit Site</a></p>
                     </div>
                 </div>
+
                 <div class="item tmz"> <img src="/assets/slide_tmz.jpg" class="img-responsive" alt="TMZ">
                     <div class="carousel-caption">
                         <p><a href="http://www.tmz.com/" target="_blank">&raquo; Visit Site</a></p>
@@ -96,6 +104,7 @@
                         <p><a href="http://www.tmz.com/photos" target="_blank">&raquo; View Photos</a></p>
                     </div>
                 </div>
+
                 <div class="item tmzlive"> <img src="/assets/slide_tmzlive.jpg" class="img-responsive" alt="TMZ Live">
                     <div class="carousel-caption">
                         <p><a href="http://www.tmz.com/" target="_blank">&raquo; Visit Site</a></p>
