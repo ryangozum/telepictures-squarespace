@@ -42,7 +42,7 @@
         <div id="carousel-tpx-shows" class="carousel slide" data-ride="carousel">
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <div class="item candidly-vh1 active"> <img src="/assets/slide_candidlynicole_vh1.jpg" class="img-responsive" alt="Candidly Nicole VH1">
+                <div class="item candidly-vh1 active"> <img src="/assets/slide_candidlynicole_vh1.jpg" class="img-responsiive" alt="Candidly Nicole VH1">
                     <div class="carousel-caption">
                         <p><a href="http://www.vh1.com/shows/candidly-nicole/" target="_blank">&raquo; Visit Site</a></p>
                     </div>
@@ -116,6 +116,12 @@
                         <p><a href="http://www.tmz.com/" target="_blank">&raquo; Visit Site</a></p>
                         <p> <a href="http://www.tmz.com/videos" target="_blank">&raquo; Watch Videos</a></p>
                         <p><a href="http://www.tmz.com/photos" target="_blank">&raquo; View Photos</a></p>
+                    </div>
+                </div>
+
+                <div class="item tmzsports"> <img src="/assets/slide_tmzsports.jpg" class="img-responsive" alt="TMZ Sports">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.tmzsports.com/" target="_blank">&raquo; Visit Site</a></p>
                     </div>
                 </div>
             </div>
