@@ -131,7 +131,7 @@
         <!-- end carousel-tpx-shows -->
         <div class="container clearfix">
             <div class="row">
-                <div class="col-xs-3 col-md-3 col-xs-offset-1 col-md-offset-2">
+                <div class="col-xs-3 col-md-3">
                     <h2 class="page-header">Shows</h2>
                 </div>
             </div>
