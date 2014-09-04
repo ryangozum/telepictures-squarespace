@@ -54,6 +54,12 @@
                     </div>
                 </div>
 
+                <div class="item dc-all-access"> <img src="/assets/slide_dc.jpg" class="img-responsive" alt="DC All Access">
+                    <div class="carousel-caption">
+                        <p><a href="http://dcallaccess.com/" target="_blank">&raquo; Visit Site</a></p>
+                    </div>
+                </div>
+
                 <div class="item ellen"> <img src="/assets/slide_ellen.jpg" class="img-responsive" alt="The Ellen DeGeneres Show">
                     <div class="carousel-caption">
                         <p><a href="http://www.ellentv.com/" target="_blank">&raquo; Visit Site</a></p>
