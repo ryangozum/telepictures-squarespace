@@ -42,11 +42,6 @@
         <div id="carousel-tpx-shows" class="carousel slide" data-ride="carousel">
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <div class="item bethenny active"> <img src="/assets/slide_bethenny.jpg" class="img-responsive" alt="Bethenny">
-                    <div class="carousel-caption">
-                        <p><a href="http://www.bethenny.com" target="_blank">&raquo; Visit Site</a></p>
-                    </div>
-                </div>
                 <div class="item candidly-vh1"> <img src="/assets/slide_candidlynicole_vh1.jpg" class="img-responsive" alt="Candidly Nicole VH1">
                     <div class="carousel-caption">
                         <p><a href="http://www.vh1.com/shows/candidly-nicole/" target="_blank">&raquo; Visit Site</a></p>
