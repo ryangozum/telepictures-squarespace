@@ -211,7 +211,6 @@
     <div class="container">
         <p><a href="http://www.warnerbros.com/privacy/terms.html?adid=tpxfooterlink" target="_blank">Terms of Use</a> | <a href=" http://www.warnerbros.com/privacy/policy.html?adid=tpxfooterlink" target="_blank">Privacy Policy</a> | <a href="#" data-toggle="modal" data-target="#myModal">Advertise with Us</a> | <a href="http://www.warnerbroscareers.com/?adid=tpxfooterlink" target="_blank">Job Opportunities</a> |  &copy; Warner Bros. Entertainment Inc.</p>
     </div>
-	
     <!-- Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
